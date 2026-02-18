@@ -69,6 +69,8 @@ src
 ├── App.jsx
 └── main.jsx
 
+---
+
 ### 2️⃣ Install Dependencies
 
 npm install
